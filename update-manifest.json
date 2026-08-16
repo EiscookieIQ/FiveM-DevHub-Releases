@@ -1,7 +1,7 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "channel": "stable",
-  "downloadUrl": "https://github.com/EiscookieIQ/FiveM-DevHub-Releases/releases/download/v0.5.1/FiveMDevHub-Setup.exe",
-  "sha256": "e012140e6c7383866e2cb233f96b99a137ea7ae659fbf8951a3bf829080290c0",
+  "downloadUrl": "https://github.com/EiscookieIQ/FiveM-DevHub-Releases/releases/download/v0.5.2/FiveMDevHub-Setup.exe",
+  "sha256": "08a2ce9f08dd246b7942bebc6f46116a005a1e5b7e2595f39d0d26af6c78fb5f",
   "notes": "FiveM DevHub Desktop Release"
 }
